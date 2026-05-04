@@ -79,7 +79,7 @@ a {
   color: var(--color-text) !important;
   font-weight: 500;
   font-size: 0.96rem;
-  padding: 6px 14px !important;
+  padding: 7px 14px !important;
   transition: color 0.2s;
 }
 
