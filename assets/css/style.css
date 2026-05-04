@@ -280,7 +280,7 @@ a {
   z-index: 3;
   width: 200px;
   background: var(--color-white);
-  border-radius: 18px;
+  border-radius: 19px;
   border: 3px solid #6B3FA0;
   box-shadow: 0 16px 48px rgba(0,0,0,0.28);
   overflow: hidden;
