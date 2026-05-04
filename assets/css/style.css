@@ -169,9 +169,7 @@ a {
   color: var(--color-white);
 }
 
-/* =============================================
-   HERO SECTION  — Figma exact match
-============================================= */
+/*HERO SECTION  — Figma exact match */
 .hero-section {
   background: var(--color-white);
   overflow: hidden;
@@ -192,7 +190,7 @@ a {
 }
 
 .hero-title {
-  font-size: 2.6rem;
+  font-size: 2.7rem;
   font-weight: 800;
   color: var(--color-dark);
   line-height: 1.18;
