@@ -361,9 +361,7 @@ a {
 }
 .pm-active .pm-line { background: #F5A623; }
 
-/* =============================================
-   STATS STRIP SECTION
-============================================= */
+/*STATS STRIP SECTION */
 .stats-strip {
   background: var(--color-white);
   padding: 50px 0 40px;
