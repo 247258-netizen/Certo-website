@@ -89,7 +89,7 @@ a {
 
 /* ---- BUTTONS ---- */
 .btn-certo-outline {
-  border: 2px solid var(--color-dark);
+  border: 3px solid var(--color-dark);
   color: var(--color-dark);
   background: transparent;
   border-radius: var(--radius-pill);
