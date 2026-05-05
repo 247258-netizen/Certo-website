@@ -444,7 +444,7 @@ a {
 
 .stars {
   color: var(--color-star);
-  font-size: 0.85rem;
+  font-size: 0.86rem;
   display: flex;
   gap: 2px;
 }
