@@ -390,7 +390,7 @@ a {
 .stat-item-coral .stat-number   { color: #E05050; }
 
 .stat-label {
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   font-weight: 600;
   color: var(--color-text-muted);
   margin-top: 6px;
