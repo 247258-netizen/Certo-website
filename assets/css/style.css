@@ -427,7 +427,7 @@ a {
   border: 2px solid var(--color-border);
   border-left: 5px solid var(--color-primary);
   border-radius: var(--radius-md);
-  padding: 22px;
+  padding: 23px;
   height: 100%;
   box-shadow: var(--shadow-card);
   transition: box-shadow 0.2s, transform 0.2s;
