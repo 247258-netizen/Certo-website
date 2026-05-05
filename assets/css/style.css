@@ -734,7 +734,7 @@ a {
 .insight-card-desc {
   font-size: 0.86rem;
   color: var(--color-text-muted);
-  line-height: 1.6;
+  line-height: 1.7;
 }
 /* Samsung image specific fix */
 .insight-card:nth-child(2) .insight-img {
@@ -743,9 +743,7 @@ a {
   height: 180px;
 }
 
-/* =============================================
-   FOOTER
-============================================= */
+/*FOOTER */
 .certo-footer {
   background: #1A1A2E;
   padding: 60px 0 30px;
