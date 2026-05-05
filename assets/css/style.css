@@ -417,7 +417,7 @@ a {
   color: var(--color-purple);
   font-weight: 700;
   font-size: 1rem;
-  padding: 10px 22px;
+  padding: 11px 22px;
   border-radius: var(--radius-pill);
   white-space: nowrap;
 }
