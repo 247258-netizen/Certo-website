@@ -602,12 +602,10 @@ a {
   line-height: 1.7;
 }
 
-/* =============================================
-   CARDS ROW SECTION
-============================================= */
+/*CARDS ROW SECTION */
 .cards-row-section {
   background: linear-gradient(135deg, #D1FAE5 0%, #A7F3D0 100%);
-  padding: 70px 0;
+  padding: 72px 0;
   border-top: 4px solid #10B981;
 }
 
