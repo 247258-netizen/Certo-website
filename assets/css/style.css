@@ -369,7 +369,7 @@ a {
 
 .stat-item {
   border-radius: var(--radius-lg);
-  padding: 28px 20px;
+  padding: 29px 20px;
   transition: transform 0.2s;
 }
 .stat-item:hover { transform: translateY(-4px); }
