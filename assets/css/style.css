@@ -544,9 +544,7 @@ a {
   line-height: 1.35;
 }
 
-/* =============================================
-   FEATURES SECTION
-============================================= */
+/* FEATURES SECTION */
 .features-section {
   background: linear-gradient(120deg, #1A1A2E 0%, #2D1B69 100%);
   padding: 30px 0 80px;
